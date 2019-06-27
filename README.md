@@ -1,2 +1,2 @@
-# Puzzle-games by Sjj1024
+# Puzzle-games
   A jigsaw puzzle based on vue.js
